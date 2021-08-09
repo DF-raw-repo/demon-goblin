@@ -1,0 +1,6 @@
+/**
+!/.gitignore
+
+!/raw/
+/raw/*
+!/raw/objects/
